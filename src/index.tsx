@@ -24,7 +24,7 @@ root.render(
       dpr={[1, 2]}
       camera={camera}
       gl={{ powerPreference: "high-performance", antialias: true }}
-      shadows={true}
+      shadows={false}
     >
       <color attach="background" args={["black"]} />
 
