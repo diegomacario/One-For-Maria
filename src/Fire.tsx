@@ -7,7 +7,7 @@ import { generatePerlin } from "./noise.js";
 import fragmentShader from "./shaders/fire/fragment.glsl";
 import vertexShader from "./shaders/fire/vertex.glsl";
 
-const size = 32;
+const size = 256;
 const width = size;
 const height = size;
 const depth = size;
