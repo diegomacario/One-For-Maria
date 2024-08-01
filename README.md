@@ -1,8 +1,6 @@
 # One-For-Maria
 
-A website for Maria!
-
-To build and run it, execute these commands:
+To build and run this project, execute these commands:
 
 ```
 npm install
